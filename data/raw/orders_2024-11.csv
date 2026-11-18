@@ -1,0 +1,165 @@
+order_id,order_date,toy_line,customer,channel,quantity,status
+ORD-003100,2024-11-01,Block Builders,ClickToys,online,7,confirmed
+ORD-003101,2024-11-01,Block Builders,ParcelPal,online,11,confirmed
+ORD-003102,2024-11-01,Turbo Trucks,ParcelPal,online,25,confirmed
+ORD-003103,2024-11-01,Turbo Trucks,ParcelPal,online,20,confirmed
+ORD-003104,2024-11-02,Block Builders,ParcelPal,online,3,confirmed
+ORD-003105,2024-11-02,Galaxy Rangers,Online Direct,online,20,confirmed
+ORD-003106,2024-11-02,Galaxy Rangers,ParcelPal,online,4,confirmed
+ORD-003107,2024-11-02,Splash Squad,ToyCart Online,online,16,cancelled
+ORD-003108,2024-11-02,Turbo Trucks,KidsBox Club,online,5,confirmed
+ORD-003109,2024-11-03,Block Builders,Lakeside Kids Co,retail,57,confirmed
+ORD-003110,2024-11-03,Block Builders,Tumbleweed Toys,retail,78,confirmed
+ORD-003111,2024-11-03,Galaxy Rangers,Online Direct,online,22,confirmed
+ORD-003112,2024-11-03,Splash Squad,GiftGrid,online,18,cancelled
+ORD-003113,2024-11-04,Blok Builders,GiftGrid,online,20,confirmed
+ORD-003114,2024-11-04,Block Builders,Maple Street Toys,retail,100,confirmed
+ORD-003115,2024-11-04,Block Builders,ToyCart Online,online,23,confirmed
+ORD-003116,2024-11-04,Galaxy Rangers,Big Sky Toy Barn,retail,57,cancelled
+ORD-003117,2024-11-04,Galaxy Rangers,KidsBox Club,online,13,confirmed
+ORD-003118,2024-11-04,Turbo Trucks,Online Direct,online,22,confirmed
+ORD-003119,2024-11-04,Turbo Trucks,ParcelPal,online,25,confirmed
+ORD-003120,2024-11-05,Block Builders,CartWheel Web,online,18,confirmed
+ORD-003121,2024-11-05,Block Builders,Cottonwood General,retail,192,confirmed
+ORD-003122,2024-11-05,Block Builders,ToyCart Online,online,9,confirmed
+ORD-003123,2024-11-05,Splash Squad,Prairie Wind Mercantile,retail,232,confirmed
+ORD-003124,2024-11-05,Splash Squad,ShopNest,online,5,confirmed
+ORD-003125,2024-11-05,Turbo Trucks,Lakeside Kids Co,retail,179,confirmed
+ORD-003126,2024-11-05,Turbo Trucks,Riverbend Variety,retail,23,confirmed
+ORD-003127,2024-11-06,Block Builders,Meadowlark Market,retail,241,confirmed
+ORD-003128,2024-11-06,Galaxy Rangers,CartWheel Web,online,14,confirmed
+ORD-003129,2024-11-06,Galaxy Rangers,CartWheel Web,online,18,confirmed
+ORD-003129,2024-11-06,Galaxy Rangers,CartWheel Web,online,18,confirmed
+ORD-003130,2024-11-06,Galaxy Rangers,Redbud Family Store,retail,114,confirmed
+ORD-003131,2024-11-06,Turbo Trucks,ShopNest,online,18,confirmed
+ORD-003132,2024-11-07,Block Builders,Cottonwood General,retail,,confirmed
+ORD-003133,2024-11-07,Block Builders,GiftGrid,online,8,confirmed
+ORD-003134,2024-11-07,Block Builders,KidsBox Club,online,8,confirmed
+ORD-003135,2024-11-07,Block Builders,Tumbleweed Toys,retail,236,confirmed
+ORD-003136,2024-11-07,Galaxy Rangers,ParcelPal,online,11,confirmed
+ORD-003137,2024-11-07,Splash Squad,Prairie Wind Mercantile,retail,28,confirmed
+ORD-003138,2024-11-07,Turbo Trucks,GiftGrid,online,2,confirmed
+ORD-003139,2024-11-07,Turbo Trucks,ToyCart Online,online,,confirmed
+ORD-003140,2024-11-08,Block Builders,Bluestem Books & Toys,retail,73,confirmed
+ORD-003141,2024-11-08,Block Builders,GiftGrid,online,22,confirmed
+ORD-003142,2024-11-08,Turbo Trucks,Sunflower Supply,retail,228,confirmed
+ORD-003143,2024-11-09,Galaxy Rangers,Maple Street Toys,retail,181,confirmed
+ORD-003144,2024-11-09,Turbo Trucks,CartWheel Web,online,23,confirmed
+ORD-003145,2024-11-10,Block Builders,CartWheel Web,online,20,confirmed
+ORD-003146,2024-11-10,Galaxy Rangers,ClickToys,online,13,confirmed
+ORD-003147,2024-11-10,Galaxy Rangers,Tumbleweed Toys,retail,201,confirmed
+ORD-003148,2024-11-11,Block Builders,CartWheel Web,online,25,confirmed
+ORD-003149,2024-11-11,Block Builders,KidsBox Club,online,18,confirmed
+ORD-003150,2024-11-11,Block Builders,Meadowlark Market,retail,233,confirmed
+ORD-003151,2024-11-11,Block Builders,Meadowlark Market,retail,50,confirmed
+ORD-003152,2024-11-11,Block Builders,Prairie Wind Mercantile,retail,211,confirmed
+ORD-003153,2024-11-11,Block Builders,ToyCart Online,online,5,confirmed
+ORD-003154,2024-11-11,Splash Squad,ShopNest,online,14,confirmed
+ORD-003155,2024-11-11,Turbo Trucks,CartWheel Web,online,16,confirmed
+ORD-003156,2024-11-11,Turbo Trucks,CartWheel Web,online,14,cancelled
+ORD-003157,2024-11-11,Turbo Trucks,Online Direct,online,2,confirmed
+ORD-003158,2024-11-11,Turbo Trucks,ToyCart Online,online,21,confirmed
+ORD-003159,2024-11-12,Block Builders,ClickToys,online,24,confirmed
+ORD-003160,2024-11-12,Block Builders,GiftGrid,online,3,confirmed
+ORD-003161,2024-11-12,Block Builders,Prairie Wind Mercantile,retail,112,cancelled
+ORD-003162,2024-11-12,Block Builders,Sunflower Supply,retail,93,confirmed
+ORD-003163,2024-11-12,Galaxy Rangers,Online Direct,online,10,confirmed
+ORD-003164,2024-11-12,Turbo Trucks,GiftGrid,online,6,confirmed
+ORD-003165,2024-11-12,Turbo Trucks,Lakeside Kids Co,retail,236,confirmed
+ORD-003167,2024-11-13,Turbo Trucks,CartWheel Web,online,15,confirmed
+ORD-003168,2024-11-13,Turbo Trucks,ClickToys,online,7,confirmed
+ORD-003169,2024-11-13,Turbo Trucks,KidsBox Club,online,22,confirmed
+ORD-003170,2024-11-13,Turbo Trucks,KidsBox Club,online,23,confirmed
+ORD-003171,2024-11-13,Turbo Trucks,ParcelPal,online,22,confirmed
+ORD-003172,2024-11-14,Block Builders,CartWheel Web,online,7,confirmed
+ORD-003173,2024-11-14,Block Builders,KidsBox Club,online,20,confirmed
+ORD-003174,2024-11-14,Block Builders,ToyCart Online,online,13,confirmed
+ORD-003175,2024-11-14,Splash Squad,Online Direct,online,21,confirmed
+ORD-003176,2024-11-14,Splash Squad,Online Direct,online,17,confirmed
+ORD-003177,2024-11-15,Galaxy Rangers,KidsBox Club,online,12,confirmed
+ORD-003178,2024-11-15,Galaxy Rangers,Maple Street Toys,retail,87,confirmed
+ORD-003179,2024-11-15,Galaxy Rangers,ParcelPal,online,9,confirmed
+ORD-003180,2024-11-15,Galaxy Rangers,Tumbleweed Toys,retail,93,confirmed
+ORD-003181,2024-11-15,Turbo Trucks,GiftGrid,online,11,confirmed
+ORD-003182,2024-11-15,Turbo Trucks,Redbud Family Store,retail,248,confirmed
+ORD-003183,2024-11-16,Block Builders,CartWheel Web,online,12,confirmed
+ORD-003184,2024-11-16,Block Builders,Redbud Family Store,retail,154,confirmed
+ORD-003185,2024-11-16,Block Builders,ToyCart Online,online,23,confirmed
+ORD-003186,2024-11-16,Galaxy Rangrs,ParcelPal,online,16,confirmed
+ORD-003187,2024-11-17,Block Builders,Bluestem Books & Toys,retail,57,cancelled
+ORD-003188,2024-11-17,Galaxy Rangers,KidsBox Club,online,7,cancelled
+ORD-003189,2024-11-17,Splash Squad,GiftGrid,online,1,confirmed
+ORD-003190,2024-11-17,Turbo Trucks,Redbud Family Store,retail,230,confirmed
+ORD-003191,2024-11-18,Galaxy Rangers,KidsBox Club,online,9,confirmed
+ORD-003192,2024-11-18,Galaxy Rangers,Riverbend Variety,retail,187,confirmed
+ORD-003193,2024-11-18,Galaxy Rangers,Tumbleweed Toys,retail,151,confirmed
+ORD-003194,2024-11-18,Turbo Trucks,CartWheel Web,online,4,confirmed
+ORD-003195,2024-11-18,Turbo Trucks,GiftGrid,online,4,confirmed
+ORD-003196,2024-11-18,Turbo Trucks,Tumbleweed Toys,retail,76,confirmed
+ORD-003197,2024-11-19,Block Builders,Big Sky Toy Barn,retail,135,confirmed
+ORD-003198,2024-11-19,Block Builders,ToyCart Online,online,8,confirmed
+ORD-003199,2024-11-19,Block Builders,ToyCart Online,online,23,confirmed
+ORD-003200,2024-11-19,Splash Squad,ToyCart Online,online,8,confirmed
+ORD-003201,2024-11-19,Turbo Trucks,Meadowlark Market,retail,112,confirmed
+ORD-003202,2024-11-19,Turbo Trucks,ShopNest,online,5,confirmed
+ORD-003203,2024-11-20,Block Builders,Bluestem Books & Toys,retail,90,confirmed
+ORD-003204,2024-11-20,Block Builders,CartWheel Web,online,15,confirmed
+ORD-003205,2024-11-20,Block Builders,ToyCart Online,online,20,confirmed
+ORD-003206,2024-11-20,Galaxy Rangers,ToyCart Online,online,25,confirmed
+ORD-003207,2024-11-20,Galaxy Rangers,ToyCart Online,online,3,confirmed
+ORD-003208,2024-11-20,Turbo Trucks,Bluestem Books & Toys,retail,90,confirmed
+ORD-003209,2024-11-20,Turbo Trucks,Lakeside Kids Co,retail,100,confirmed
+ORD-003210,2024-11-20,Turbo Trucks,ShopNest,online,,confirmed
+ORD-003211,2024-11-21,Block Builders,Harvest Moon Gifts,retail,92,confirmed
+ORD-003211,2024-11-21,Block Builders,Harvest Moon Gifts,retail,92,confirmed
+ORD-003212,2024-11-21,Block Builders,Prairie Wind Mercantile,retail,124,confirmed
+ORD-003213,2024-11-21,Galaxy Rangers,CartWheel Web,online,20,confirmed
+ORD-003214,2024-11-21,Galaxy Rangers,CartWheel Web,online,1,cancelled
+ORD-003215,2024-11-21,Splash Squad,ToyCart Online,online,2,confirmed
+ORD-003216,2024-11-21,Turbo Trucks,Harvest Moon Gifts,retail,105,confirmed
+ORD-003217,2024-11-21,Turbo Trucks,ParcelPal,online,2,confirmed
+ORD-003218,2024-11-22,Block Builders,ClickToys,online,23,confirmed
+ORD-003219,2024-11-22,Block Builders,KidsBox Club,online,24,confirmed
+ORD-003220,2024-11-22,Turbo Trucks,Meadowlark Market,retail,127,confirmed
+ORD-003221,2024-11-22,Turbo Trucks,Online Direct,online,16,confirmed
+ORD-003222,2024-11-23,Block Builders,KidsBox Club,online,7,confirmed
+ORD-003223,2024-11-23,Block Builders,ShopNest,online,2,confirmed
+ORD-003224,2024-11-23,Galaxy Rangers,GiftGrid,online,18,confirmed
+ORD-003225,2024-11-23,Splash Squad,Maple Street Toys,retail,195,confirmed
+ORD-003226,2024-11-23,Turbo Trucks,CartWheel Web,online,1,confirmed
+ORD-003227,2024-11-23,Turbo Trucks,Harvest Moon Gifts,retail,114,confirmed
+ORD-003228,2024-11-24,Block Builders,CartWheel Web,online,1,confirmed
+ORD-003229,2024-11-24,Block Builders,Riverbend Variety,retail,77,confirmed
+ORD-003230,2024-11-24,Galaxy Rangers,CartWheel Web,online,3,confirmed
+ORD-003231,2024-11-24,Galaxy Rangers,ShopNest,online,3,confirmed
+ORD-003232,2024-11-24,Galaxy Rangers,Tumbleweed Toys,retail,82,confirmed
+ORD-003233,2024-11-24,Turbo Trucks,ClickToys,online,7,confirmed
+ORD-003234,2024-11-24,Turbo Trucks,GiftGrid,online,5,confirmed
+ORD-003235,2024-11-24,Turbo Trucks,Lakeside Kids Co,retail,12,cancelled
+ORD-003236,2024-11-24,Turbo Trucks,ParcelPal,online,9,confirmed
+ORD-003237,2024-11-25,Block Builders,Online Direct,online,20,confirmed
+ORD-003238,2024-11-25,Block Builders,ParcelPal,online,11,confirmed
+ORD-003239,2024-11-25,Block Builders,ParcelPal,online,24,confirmed
+ORD-003240,2024-11-25,Block Builders,ShopNest,online,13,confirmed
+ORD-003241,2024-11-25,Galaxy Rangers,Online Direct,online,10,cancelled
+ORD-003242,2024-11-25,Splash Squad,ClickToys,online,19,confirmed
+ORD-003243,2024-11-25,Splash Squad,ParcelPal,online,4,confirmed
+ORD-003244,2024-11-25,Splash Squad,ToyCart Online,online,3,confirmed
+ORD-003245,2024-11-27,Block Builders,GiftGrid,online,9,confirmed
+ORD-003246,2024-11-27,Splash Squad,ClickToys,online,20,confirmed
+ORD-003247,2024-11-27,Splash Squad,ParcelPal,online,18,confirmed
+ORD-003248,2024-11-28,Block Builders,Harvest Moon Gifts,retail,128,confirmed
+ORD-003249,2024-11-28,Block Builders,Harvest Moon Gifts,retail,121,confirmed
+ORD-003250,2024-11-28,Galaxy Rangers,Tumbleweed Toys,retail,248,confirmed
+ORD-003251,2024-11-29,Block Builders,GiftGrid,online,15,confirmed
+ORD-003252,2024-11-29,Block Builders,Online Direct,online,21,confirmed
+ORD-003253,2024-11-29,Galaxy Rangers,GiftGrid,online,24,confirmed
+ORD-003254,2024-11-29,Splash Squad,ShopNest,online,19,confirmed
+ORD-003255,2024-11-29,Turbo Trucks,GiftGrid,online,7,confirmed
+ORD-003256,2024-11-29,Turbo Trucks,KidsBox Club,online,17,confirmed
+ORD-003257,2024-11-29,Turbo Trucks,Online Direct,online,5,confirmed
+ORD-003258,2024-11-29,Turbo Trucks,Riverbend Variety,retail,103,confirmed
+ORD-003259,2024-11-30,Block Builders,ClickToys,online,21,confirmed
+ORD-003260,2024-11-30,Galaxy Rangers,Big Sky Toy Barn,retail,40,confirmed
+ORD-003261,2024-11-30,Galaxy Rangers,Maple Street Toys,retail,235,confirmed
+ORD-003262,2024-11-30,Turbo Trucks,ShopNest,online,15,confirmed

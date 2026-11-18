@@ -1,0 +1,5 @@
+toy_line,price,discount_price,resin_kg_per_unit,cardboard_kg_per_unit,other_unit_cost,storage_cost_per_unit_per_quarter
+Turbo Trucks,14.0,5.0,0.4,0.15,6.0,0.4
+Block Builders,20.0,6.5,0.6,0.25,8.0,0.6
+Splash Squad,11.0,3.5,0.3,0.12,4.5,0.35
+Galaxy Rangers,17.0,5.5,0.35,0.18,7.0,0.5

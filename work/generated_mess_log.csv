@@ -1,0 +1,214 @@
+order_id,file,issue,detail
+ORD-000009,data/raw/orders_2023-01.csv,bad_quantity,-32
+ORD-000159,data/raw/orders_2023-02.csv,bad_quantity,57929
+ORD-000177,data/raw/orders_2023-03.csv,late_order,dated 2023-02-21
+ORD-000192,data/raw/orders_2023-02.csv,duplicate,
+ORD-000199,data/raw/orders_2023-02.csv,duplicate,
+ORD-000247,data/raw/orders_2023-03.csv,duplicate,
+ORD-000266,data/raw/orders_2023-03.csv,duplicate,
+ORD-000328,data/raw/orders_2023-03.csv,missing_quantity,
+ORD-000344,data/raw/orders_2023-04.csv,bad_quantity,-7
+ORD-000406,data/raw/orders_2023-04.csv,misspelled_toy_line,'Turbo Truks'
+ORD-000446,data/raw/orders_2023-05.csv,late_order,dated 2023-04-24
+ORD-000460,data/raw/orders_2023-04.csv,missing_quantity,
+ORD-000482,data/raw/orders_2023-05.csv,duplicate,
+ORD-000485,data/raw/orders_2023-06.csv,late_order,dated 2023-05-03
+ORD-000489,data/raw/orders_2023-05.csv,bad_quantity,-48
+ORD-000507,data/raw/orders_2023-05.csv,missing_quantity,
+ORD-000516,data/raw/orders_2023-05.csv,misspelled_toy_line,'turbo trucks'
+ORD-000535,data/raw/orders_2023-05.csv,misspelled_toy_line,'Splash Sqaud'
+ORD-000588,data/raw/orders_2023-05.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-000625,data/raw/orders_2023-06.csv,missing_quantity,
+ORD-000628,data/raw/orders_2023-06.csv,duplicate,
+ORD-000668,data/raw/orders_2023-06.csv,duplicate,
+ORD-000681,data/raw/orders_2023-06.csv,duplicate,
+ORD-000708,data/raw/orders_2023-06.csv,bad_quantity,-45
+ORD-000758,data/raw/orders_2023-07.csv,late_order,dated 2023-06-29
+ORD-000778,data/raw/orders_2023-07.csv,misspelled_toy_line,'splash squad'
+ORD-000794,data/raw/orders_2023-07.csv,bad_quantity,-44
+ORD-000817,data/raw/orders_2023-08.csv,late_order,dated 2023-07-14
+ORD-000845,data/raw/orders_2023-07.csv,bad_quantity,-29
+ORD-000896,data/raw/orders_2023-08.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-000904,data/raw/orders_2023-09.csv,late_order,dated 2023-08-03
+ORD-000912,data/raw/orders_2023-08.csv,duplicate,
+ORD-000952,data/raw/orders_2023-08.csv,duplicate,
+ORD-000990,data/raw/orders_2023-08.csv,duplicate,
+ORD-000998,data/raw/orders_2023-08.csv,misspelled_toy_line,'Splash Sqaud'
+ORD-001032,data/raw/orders_2023-09.csv,duplicate,
+ORD-001033,data/raw/orders_2023-09.csv,bad_quantity,-19
+ORD-001113,data/raw/orders_2023-09.csv,duplicate,
+ORD-001119,data/raw/orders_2023-09.csv,bad_quantity,-46
+ORD-001225,data/raw/orders_2023-11.csv,late_order,dated 2023-10-13
+ORD-001233,data/raw/orders_2023-10.csv,bad_quantity,57535
+ORD-001235,data/raw/orders_2023-10.csv,duplicate,
+ORD-001260,data/raw/orders_2023-11.csv,late_order,dated 2023-10-18
+ORD-001299,data/raw/orders_2023-10.csv,duplicate,
+ORD-001367,data/raw/orders_2023-11.csv,misspelled_toy_line,'Block Builder'
+ORD-001387,data/raw/orders_2023-11.csv,missing_quantity,
+ORD-001402,data/raw/orders_2023-11.csv,missing_quantity,
+ORD-001413,data/raw/orders_2023-11.csv,duplicate,
+ORD-001476,data/raw/orders_2023-11.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-001482,data/raw/orders_2023-11.csv,bad_quantity,80826
+ORD-001511,data/raw/orders_2024-01.csv,late_order,dated 2023-12-01
+ORD-001513,data/raw/orders_2024-01.csv,late_order,dated 2023-12-01
+ORD-001520,data/raw/orders_2023-12.csv,bad_quantity,-32
+ORD-001530,data/raw/orders_2023-12.csv,misspelled_toy_line,'Blok Builders'
+ORD-001567,data/raw/orders_2023-12.csv,missing_quantity,
+ORD-001572,data/raw/orders_2023-12.csv,misspelled_toy_line,'Turbo Truks'
+ORD-001593,data/raw/orders_2023-12.csv,missing_quantity,
+ORD-001594,data/raw/orders_2024-01.csv,late_order,dated 2023-12-16
+ORD-001611,data/raw/orders_2023-12.csv,missing_quantity,
+ORD-001681,data/raw/orders_2023-12.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-001694,data/raw/orders_2024-01.csv,bad_quantity,73665
+ORD-001750,data/raw/orders_2024-01.csv,missing_quantity,
+ORD-001755,data/raw/orders_2024-01.csv,misspelled_toy_line,'Splash Squad '
+ORD-001798,data/raw/orders_2024-03.csv,late_order,dated 2024-02-03
+ORD-001828,data/raw/orders_2024-02.csv,duplicate,
+ORD-001922,data/raw/orders_2024-04.csv,late_order,dated 2024-03-05
+ORD-001977,data/raw/orders_2024-03.csv,misspelled_toy_line,'Galaxy Ranger'
+ORD-002058,data/raw/orders_2024-04.csv,missing_quantity,
+ORD-002071,data/raw/orders_2024-04.csv,bad_quantity,-48
+ORD-002119,data/raw/orders_2024-04.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-002143,data/raw/orders_2024-04.csv,misspelled_toy_line,'Splash Sqaud'
+ORD-002191,data/raw/orders_2024-06.csv,late_order,dated 2024-05-02
+ORD-002201,data/raw/orders_2024-05.csv,misspelled_toy_line,'turbo trucks'
+ORD-002245,data/raw/orders_2024-06.csv,late_order,dated 2024-05-14
+ORD-002260,data/raw/orders_2024-05.csv,bad_quantity,75047
+ORD-002262,data/raw/orders_2024-05.csv,misspelled_toy_line,'block builders'
+ORD-002264,data/raw/orders_2024-06.csv,late_order,dated 2024-05-17
+ORD-002273,data/raw/orders_2024-05.csv,missing_quantity,
+ORD-002284,data/raw/orders_2024-06.csv,late_order,dated 2024-05-20
+ORD-002288,data/raw/orders_2024-05.csv,duplicate,
+ORD-002291,data/raw/orders_2024-06.csv,late_order,dated 2024-05-22
+ORD-002321,data/raw/orders_2024-05.csv,bad_quantity,-41
+ORD-002492,data/raw/orders_2024-06.csv,missing_quantity,
+ORD-002540,data/raw/orders_2024-07.csv,missing_quantity,
+ORD-002550,data/raw/orders_2024-07.csv,duplicate,
+ORD-002579,data/raw/orders_2024-07.csv,missing_quantity,
+ORD-002628,data/raw/orders_2024-07.csv,duplicate,
+ORD-002639,data/raw/orders_2024-07.csv,duplicate,
+ORD-002691,data/raw/orders_2024-08.csv,missing_quantity,
+ORD-002743,data/raw/orders_2024-09.csv,late_order,dated 2024-08-21
+ORD-002781,data/raw/orders_2024-08.csv,duplicate,
+ORD-002802,data/raw/orders_2024-09.csv,bad_quantity,92955
+ORD-002803,data/raw/orders_2024-09.csv,bad_quantity,-47
+ORD-002908,data/raw/orders_2024-10.csv,late_order,dated 2024-09-28
+ORD-002918,data/raw/orders_2024-10.csv,missing_quantity,
+ORD-002922,data/raw/orders_2024-10.csv,bad_quantity,-24
+ORD-002930,data/raw/orders_2024-10.csv,duplicate,
+ORD-002948,data/raw/orders_2024-10.csv,missing_quantity,
+ORD-003059,data/raw/orders_2024-10.csv,duplicate,
+ORD-003099,data/raw/orders_2024-12.csv,late_order,dated 2024-11-01
+ORD-003113,data/raw/orders_2024-11.csv,misspelled_toy_line,'Blok Builders'
+ORD-003129,data/raw/orders_2024-11.csv,duplicate,
+ORD-003132,data/raw/orders_2024-11.csv,missing_quantity,
+ORD-003139,data/raw/orders_2024-11.csv,missing_quantity,
+ORD-003166,data/raw/orders_2024-12.csv,late_order,dated 2024-11-13
+ORD-003186,data/raw/orders_2024-11.csv,misspelled_toy_line,'Galaxy Rangrs'
+ORD-003210,data/raw/orders_2024-11.csv,missing_quantity,
+ORD-003211,data/raw/orders_2024-11.csv,duplicate,
+ORD-003277,data/raw/orders_2024-12.csv,bad_quantity,-32
+ORD-003322,data/raw/orders_2024-12.csv,duplicate,
+ORD-003324,data/raw/orders_2024-12.csv,misspelled_toy_line,'Turbo Truks'
+ORD-003460,data/raw/orders_2025-01.csv,bad_quantity,54437
+ORD-003479,data/raw/orders_2025-02.csv,late_order,dated 2025-01-16
+ORD-003512,data/raw/orders_2025-01.csv,duplicate,
+ORD-003567,data/raw/orders_2025-02.csv,misspelled_toy_line,'galaxy rangers'
+ORD-003655,data/raw/orders_2025-02.csv,duplicate,
+ORD-003685,data/raw/orders_2025-03.csv,misspelled_toy_line,'turbo trucks'
+ORD-003695,data/raw/orders_2025-04.csv,late_order,dated 2025-03-04
+ORD-003698,data/raw/orders_2025-03.csv,misspelled_toy_line,'turbo trucks'
+ORD-003723,data/raw/orders_2025-03.csv,bad_quantity,77930
+ORD-003788,data/raw/orders_2025-03.csv,bad_quantity,58055
+ORD-003792,data/raw/orders_2025-03.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-003885,data/raw/orders_2025-04.csv,misspelled_toy_line,'turbo trucks'
+ORD-003960,data/raw/orders_2025-05.csv,bad_quantity,89761
+ORD-003968,data/raw/orders_2025-06.csv,late_order,dated 2025-05-05
+ORD-004018,data/raw/orders_2025-06.csv,late_order,dated 2025-05-14
+ORD-004034,data/raw/orders_2025-05.csv,bad_quantity,-36
+ORD-004135,data/raw/orders_2025-06.csv,duplicate,
+ORD-004156,data/raw/orders_2025-07.csv,late_order,dated 2025-06-12
+ORD-004210,data/raw/orders_2025-06.csv,missing_quantity,
+ORD-004278,data/raw/orders_2025-07.csv,bad_quantity,70362
+ORD-004295,data/raw/orders_2025-07.csv,misspelled_toy_line,'Splash Sqaud'
+ORD-004351,data/raw/orders_2025-07.csv,missing_quantity,
+ORD-004390,data/raw/orders_2025-08.csv,bad_quantity,-33
+ORD-004393,data/raw/orders_2025-08.csv,missing_quantity,
+ORD-004425,data/raw/orders_2025-08.csv,duplicate,
+ORD-004455,data/raw/orders_2025-08.csv,bad_quantity,-12
+ORD-004473,data/raw/orders_2025-08.csv,misspelled_toy_line,'Blok Builders'
+ORD-004526,data/raw/orders_2025-08.csv,duplicate,
+ORD-004533,data/raw/orders_2025-08.csv,misspelled_toy_line,'Splash Sqaud'
+ORD-004534,data/raw/orders_2025-08.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-004545,data/raw/orders_2025-08.csv,missing_quantity,
+ORD-004555,data/raw/orders_2025-08.csv,bad_quantity,78958
+ORD-004606,data/raw/orders_2025-09.csv,misspelled_toy_line,'galaxy rangers'
+ORD-004672,data/raw/orders_2025-09.csv,misspelled_toy_line,'Galaxy Rangrs'
+ORD-004801,data/raw/orders_2025-11.csv,late_order,dated 2025-10-05
+ORD-004822,data/raw/orders_2025-11.csv,late_order,dated 2025-10-07
+ORD-004836,data/raw/orders_2025-10.csv,duplicate,
+ORD-004926,data/raw/orders_2025-10.csv,misspelled_toy_line,'Galaxy Rangrs'
+ORD-004939,data/raw/orders_2025-11.csv,late_order,dated 2025-10-22
+ORD-005025,data/raw/orders_2025-12.csv,late_order,dated 2025-11-02
+ORD-005145,data/raw/orders_2025-11.csv,duplicate,
+ORD-005215,data/raw/orders_2025-11.csv,misspelled_toy_line,'Block Builder'
+ORD-005226,data/raw/orders_2025-11.csv,duplicate,
+ORD-005246,data/raw/orders_2025-11.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-005359,data/raw/orders_2025-12.csv,bad_quantity,-7
+ORD-005371,data/raw/orders_2025-12.csv,missing_quantity,
+ORD-005373,data/raw/orders_2025-12.csv,missing_quantity,
+ORD-005392,data/raw/orders_2025-12.csv,missing_quantity,
+ORD-005408,data/raw/orders_2025-12.csv,missing_quantity,
+ORD-005495,data/raw/orders_2025-12.csv,duplicate,
+ORD-005519,data/raw/orders_2025-12.csv,missing_quantity,
+ORD-005559,data/incoming/orders_2026-01.csv,duplicate,
+ORD-005575,data/incoming/orders_2026-01.csv,missing_quantity,
+ORD-005589,data/incoming/orders_2026-01.csv,bad_quantity,-50
+ORD-005598,data/incoming/orders_2026-01.csv,bad_quantity,71363
+ORD-005679,data/incoming/orders_2026-02.csv,misspelled_toy_line,'Turbo Truks'
+ORD-005693,data/incoming/orders_2026-02.csv,misspelled_toy_line,'Block Builder'
+ORD-005745,data/incoming/orders_2026-02.csv,duplicate,
+ORD-005779,data/incoming/orders_2026-02.csv,bad_quantity,-29
+ORD-005837,data/incoming/orders_2026-04.csv,late_order,dated 2026-03-08
+ORD-005874,data/incoming/orders_2026-03.csv,missing_quantity,
+ORD-005921,data/incoming/orders_2026-03.csv,bad_quantity,-16
+ORD-005940,data/incoming/orders_2026-03.csv,missing_quantity,
+ORD-005946,data/incoming/orders_2026-03.csv,bad_quantity,99480
+ORD-005972,data/incoming/orders_2026-04.csv,missing_quantity,
+ORD-006035,data/incoming/orders_2026-04.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-006045,data/incoming/orders_2026-04.csv,bad_quantity,91755
+ORD-006058,data/incoming/orders_2026-04.csv,bad_quantity,85762
+ORD-006076,data/incoming/orders_2026-04.csv,duplicate,
+ORD-006079,data/incoming/orders_2026-04.csv,bad_quantity,90405
+ORD-006081,data/incoming/orders_2026-04.csv,missing_quantity,
+ORD-006083,data/incoming/orders_2026-04.csv,misspelled_toy_line,'Blok Builders'
+ORD-006164,data/incoming/orders_2026-05.csv,missing_quantity,
+ORD-006201,data/incoming/orders_2026-05.csv,misspelled_toy_line,'block builders'
+ORD-006215,data/incoming/orders_2026-05.csv,missing_quantity,
+ORD-006223,data/incoming/orders_2026-05.csv,duplicate,
+ORD-006239,data/incoming/orders_2026-05.csv,bad_quantity,96435
+ORD-006406,data/incoming/orders_2026-06.csv,misspelled_toy_line,'Galaxy Rangrs'
+ORD-006470,data/incoming/orders_2026-07.csv,duplicate,
+ORD-006505,data/incoming/orders_2026-07.csv,misspelled_toy_line,'Splash Squad '
+ORD-006536,data/incoming/orders_2026-07.csv,duplicate,
+ORD-006544,data/incoming/orders_2026-08.csv,late_order,dated 2026-07-15
+ORD-006557,data/incoming/orders_2026-07.csv,missing_quantity,
+ORD-006573,data/incoming/orders_2026-08.csv,late_order,dated 2026-07-19
+ORD-006593,data/incoming/orders_2026-07.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-006619,data/incoming/orders_2026-07.csv,bad_quantity,71936
+ORD-006695,data/incoming/orders_2026-09.csv,late_order,dated 2026-08-04
+ORD-006704,data/incoming/orders_2026-08.csv,missing_quantity,
+ORD-006758,data/incoming/orders_2026-09.csv,late_order,dated 2026-08-14
+ORD-006775,data/incoming/orders_2026-09.csv,late_order,dated 2026-08-18
+ORD-006814,data/incoming/orders_2026-08.csv,misspelled_toy_line,'Blok Builders'
+ORD-006830,data/incoming/orders_2026-09.csv,late_order,dated 2026-08-28
+ORD-006863,data/incoming/orders_2026-09.csv,bad_quantity,-44
+ORD-006904,data/incoming/orders_2026-09.csv,missing_quantity,
+ORD-007035,data/incoming/orders_2026-10.csv,duplicate,
+ORD-007036,data/incoming/orders_2026-10.csv,duplicate,
+ORD-007058,data/incoming/orders_2026-10.csv,misspelled_toy_line,'Turbo Trucks '
+ORD-007104,data/incoming/orders_2026-10.csv,bad_quantity,66827
+ORD-007105,data/incoming/orders_2026-10.csv,bad_quantity,-44
+ORD-007108,data/incoming/orders_2026-10.csv,bad_quantity,-43
+ORD-007146,data/incoming/orders_2026-10.csv,duplicate,
+ORD-007183,data/incoming/orders_2026-10.csv,bad_quantity,-10
