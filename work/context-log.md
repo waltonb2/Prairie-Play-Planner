@@ -29,3 +29,12 @@ still pass. Wrote `scripts/download_fred.py` and downloaded WPU066, PCU322211322
 CPIAUCSL to `data/raw/fred_*.csv` (46 months each, Jan 2023 – Oct 2026, no missing values).
 The script refuses to overwrite without `--force` (tested). Gotcha: FRED's CSV endpoint hung on a
 custom User-Agent header but accepts Python's default, so the script sends no custom header.
+
+## 2026-11-18 — Context reading
+`/context` showed 114.5k / 1M tokens (11%), with messages at 83.7k. Screenshot:
+`work/evidence/2026-11-18-context.png`.
+
+## 2026-11-18 — Handoff to a fresh session
+Natural checkpoint: all input data is generated, downloaded, checked and pushed. Wrote
+`work/handoff.md` (what's built, next steps, open questions). The next session starts fresh with
+the `/plan-quarter` workflow design and the Milestone 2 rough design.
