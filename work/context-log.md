@@ -38,3 +38,9 @@ custom User-Agent header but accepts Python's default, so the script sends no cu
 Natural checkpoint: all input data is generated, downloaded, checked and pushed. Wrote
 `work/handoff.md` (what's built, next steps, open questions). The next session starts fresh with
 the `/plan-quarter` workflow design and the Milestone 2 rough design.
+
+## 2026-11-18 — Fresh-start test
+After `/clear`, a fresh session read only `AGENTS.md` and `work/handoff.md` and correctly
+summarized the project, what's built, the next steps (design the `/plan-quarter` workflow, then
+the Milestone 2 rough design) and the open questions. Screenshot:
+`work/evidence/2026-11-18-fresh-start.png`.
