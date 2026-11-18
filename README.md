@@ -1,1 +1,1 @@
-# Praire-Play-Planner
+# Prairie-Play-Planner
