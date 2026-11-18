@@ -47,9 +47,9 @@ TOY_LINE_COLUMNS = [
 
 # Base prices as of Jan 2023. Dollar cost in month t =
 # base_price_per_kg * (index at t / index at Jan 2023).
-# FRED series IDs are tentative until the data is downloaded.
+# FRED series pages checked 2026-11-18 (see decisions.md).
 MATERIALS = [
-    ("resin", 1.50, "2023-01", "WPU0661"),
+    ("resin", 1.50, "2023-01", "WPU066"),
     ("cardboard", 0.90, "2023-01", "PCU322211322211"),
 ]
 MATERIAL_COLUMNS = ["material", "base_price_per_kg", "base_month", "fred_series"]

@@ -68,3 +68,27 @@ After reviewing the first plan, we changed five things:
    instead of lasting all of 2025.
 5. **Verification is a saved script**, `checks/check_generated_data.py`, instead of a one-off
    command.
+
+## 2026-11-18 — FRED series checked
+On 2026-11-18 the user checked all 3 FRED series pages: WPU066 (resin), PCU322211322211
+(cardboard) and CPIAUCSL (CPI). For each one, the source is the U.S. Bureau of Labor Statistics.
+The series notes have no copyright notice. FRED shows only its generic banner ("Data in this
+graph are copyrighted. Please review the copyright information in the series notes before
+sharing.") and tags each series "Public Domain: Citation Requested". We will cite each series
+using FRED's suggested citation (see `source-index.md`).
+
+**Resin series corrected: WPU066, not WPU0661.** WPU0661 does not exist on FRED (404). This
+replaces the tentative ID in the cost-rule entry above. `data/raw/material_prices.csv` still says
+WPU0661, so it needs fixing in `scripts/generate_data.py` and a regeneration.
+(Done the same day; only that line changed.)
+
+## 2026-11-18 — FRED downloads hand-checked
+On 2026-11-18 the user hand-checked two downloaded files against the FRED website, and both matched:
+- `data/raw/fred_WPU066.csv`: 2023-01 = 275.754
+- `data/raw/fred_PCU322211322211.csv`: 2023-01 = 449.400
+
+`fred_CPIAUCSL.csv` was not hand-checked.
+
+## 2026-11-18 — Keep CPIAUCSL (seasonally adjusted)
+We keep CPIAUCSL, the seasonally adjusted CPI. CPI only scales `other_unit_cost` and storage
+cost, where a smooth series is fine. Seasonal swings matter for demand, not for these costs.

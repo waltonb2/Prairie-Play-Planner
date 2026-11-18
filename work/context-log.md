@@ -19,3 +19,13 @@ Generated 3 config files, 36 order files in `data/raw/`, 10 in `data/incoming/` 
 4.7% cancelled; 213 messy rows logged in `work/generated_mess_log.csv`). All 30 checks pass,
 including the byte-identical regeneration check. Shared capacity is 21,600 per quarter; all
 three Q4s (2023–25) fall short. Next: download FRED indexes.
+
+## 2026-11-18 — FRED data downloaded
+Checked the FRED series pages and found the tentative resin ID WPU0661 doesn't exist (404). The
+user confirmed WPU066. Added FRED's suggested citations to `source-index.md` and logged the
+series check in `decisions.md`. Fixed the ID in `scripts/generate_data.py` and regenerated with
+`--force`: `git diff` showed only `data/raw/material_prices.csv` changed, and all 30 checks
+still pass. Wrote `scripts/download_fred.py` and downloaded WPU066, PCU322211322211 and
+CPIAUCSL to `data/raw/fred_*.csv` (46 months each, Jan 2023 – Oct 2026, no missing values).
+The script refuses to overwrite without `--force` (tested). Gotcha: FRED's CSV endpoint hung on a
+custom User-Agent header but accepts Python's default, so the script sends no custom header.
